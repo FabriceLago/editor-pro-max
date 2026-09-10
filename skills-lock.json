@@ -114,16 +114,16 @@
       "computedHash": "0eb8e9ba100985eb4da20c46807268cafd72ec1c4ea58132edf9be6c469867fe"
     },
     "brand-guidelines": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "skills/brand-guidelines/SKILL.md",
-      "computedHash": "c82f0b24cdcc7e2693a963d30c810558b7bb89ed84508b2328228d21256ef865"
+      "skillPath": "brand-guidelines/SKILL.md",
+      "computedHash": "cf41642f38f35bcae5bbf59215f0ee629d5f6a54b4811454f6cb93bc9b12b69e"
     },
     "canvas-design": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "skills/canvas-design/SKILL.md",
-      "computedHash": "4e8bbc31d3b159efdd32d31a63ba8cd5a44d84911e924c1f2c709c50cbcdd0ec"
+      "skillPath": "canvas-design/SKILL.md",
+      "computedHash": "21e7c68d336893e4f2aa8d269854fd5e253c89cfc6dd0e74fa487fe7e96abdeb"
     },
     "changelog-generator": {
       "source": "ComposioHQ/awesome-claude-skills",
@@ -706,10 +706,10 @@
       "computedHash": "b6a5f96b71a4d7f5a2b39b13adfd3070c4e47ef8e3d07903b1b65c97bd3e69ab"
     },
     "internal-comms": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "skills/internal-comms/SKILL.md",
-      "computedHash": "cf3dba93fd569d7380505db211f89a467869c1a2ef301941148d06f33ed17332"
+      "skillPath": "internal-comms/SKILL.md",
+      "computedHash": "6e7e5d2f3bfa91e6ce302e629ff639bc82d95d2ce3454383531093cbeb8b38b0"
     },
     "investment-analysis": {
       "source": "hainrixz/maia-skill",
@@ -790,10 +790,10 @@
       "computedHash": "14321652282333f689810ee754c34825e20191017112d6fcf1b1e772de194687"
     },
     "mcp-builder": {
-      "source": "georgekhananaev/claude-skills-vault",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": ".claude/skills/mcp-builder/SKILL.md",
-      "computedHash": "0738efa58c6870bf0c99941b8db41d41644f962d9e0e7622bc8d9cf22a5cfa7f"
+      "skillPath": "mcp-builder/SKILL.md",
+      "computedHash": "e257cceb3e4724db5ada5bcb750308f00c5f3597f047230138c5ff741fc3ab1b"
     },
     "md": {
       "source": "georgekhananaev/claude-skills-vault",
@@ -1242,16 +1242,16 @@
       "computedHash": "cf98bb28d2a26e2e5f086f2418352975608e52907b05bc7d54a2d67b3d93b7aa"
     },
     "skill-creator": {
-      "source": "georgekhananaev/claude-skills-vault",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": ".claude/skills/skill-creator/SKILL.md",
-      "computedHash": "3276c82c26860d5869d2712296c8838f62ce012eeeaab0fbafd569b3336aabb9"
+      "skillPath": "skill-creator/SKILL.md",
+      "computedHash": "3bc61dd979ebedf0f1907755dd72af7dc70fb5e92bd2d20219fc26e76f5b0d85"
     },
     "slack-gif-creator": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "skills/slack-gif-creator/SKILL.md",
-      "computedHash": "a36e1ceb3f07eb37bdc259f1bfb18e48cc0e809b2e1651cb2369286cd66b2107"
+      "skillPath": "slack-gif-creator/SKILL.md",
+      "computedHash": "e6ee3f4b80444460bee4044a7b225748398e0aa3eeb019ad945d6e91570a6ceb"
     },
     "sms": {
       "source": "coreyhaines31/marketingskills",
@@ -1308,9 +1308,9 @@
       "computedHash": "41a39b5fb096ce30e4274a1e1994197056ae5a570dbe8cae3bb460ae71c24f14"
     },
     "template-skill": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "template/SKILL.md",
+      "skillPath": "template-skill/SKILL.md",
       "computedHash": "daf176f2cd0030d321982d3e813fd1a794a0b4744c5a92d2931a37001bb40fb9"
     },
     "terraform": {
@@ -1332,10 +1332,10 @@
       "computedHash": "5eec3107b1a1e2dab0bfa4a9d749d0612fc0f70f37493aa2eccc944ed21af55c"
     },
     "theme-factory": {
-      "source": "anthropics/skills",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": "skills/theme-factory/SKILL.md",
-      "computedHash": "e9ec1fe85faa729e9f3d1731cd7e4e485f98c099ccc7c1c0d198f473aa4b654a"
+      "skillPath": "theme-factory/SKILL.md",
+      "computedHash": "0290eabfd6fea9fcfd59c12de15e3f4046593185089956802b6d48ba1d07f428"
     },
     "token-optimizer": {
       "source": "georgekhananaev/claude-skills-vault",
@@ -1428,10 +1428,10 @@
       "computedHash": "fe263fab3805872b335115cea1540eb6079f349cf0a537f427bf5134d72d0328"
     },
     "webapp-testing": {
-      "source": "georgekhananaev/claude-skills-vault",
+      "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
-      "skillPath": ".claude/skills/webapp-testing/SKILL.md",
-      "computedHash": "e42482ae53f629bf1ba0e77ee6c1b5e9c49a9f022a0887dc8dcfded080100bfc"
+      "skillPath": "webapp-testing/SKILL.md",
+      "computedHash": "5a6a18c0137cfbabec058e86fc1c8f6919d846a7b2a34ee978cc8ced866ee2e5"
     },
     "xlsx": {
       "source": "georgekhananaev/claude-skills-vault",
