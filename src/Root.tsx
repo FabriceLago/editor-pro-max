@@ -19,8 +19,9 @@ import {MangaOpening} from "./compositions/MangaOpening";
 import {MielCoteDIvoire, mielCoteDIvoireDefaultProps} from "./compositions/MielCoteDIvoire";
 
 // Editing templates
-import {TalkingHeadEdit} from "./templates/editing/TalkingHeadEdit";
-import {PodcastClip} from "./templates/editing/PodcastClip";
+// TalkingHeadEdit and PodcastClip are disabled until public/assets/video.mp4 exists (see Root.tsx below)
+// import {TalkingHeadEdit} from "./templates/editing/TalkingHeadEdit";
+// import {PodcastClip} from "./templates/editing/PodcastClip";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -157,7 +158,9 @@ export const RemotionRoot: React.FC = () => {
         />
       </Folder>
 
-      <Folder name="Editing">
+      {/* Editing templates disabled: require public/assets/video.mp4, which doesn't exist yet.
+          Re-enable by uncommenting the imports above and this block once a source video is added. */}
+      {/* <Folder name="Editing">
         <Composition
           id="TalkingHeadEdit"
           component={TalkingHeadEdit}
@@ -187,7 +190,7 @@ export const RemotionRoot: React.FC = () => {
             captionPreset: "bold" as const,
           }}
         />
-      </Folder>
+      </Folder> */}
     </>
   );
 };
