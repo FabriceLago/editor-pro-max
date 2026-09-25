@@ -131,6 +131,12 @@
       "skillPath": "changelog-generator/SKILL.md",
       "computedHash": "f84bcb773a67ade28878d63103e3d4dc1f5031d6103be5107ff99c15b8d4a992"
     },
+    "chatgpt-app-builder": {
+      "source": "mcp-use/mcp-use",
+      "sourceType": "github",
+      "skillPath": "skills/chatgpt-app-builder/SKILL.md",
+      "computedHash": "62e47df2c6ffc7c2310cefb16231f66c469c6ba805eef4350d2124ee52a5bd48"
+    },
     "churn-prevention": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -789,6 +795,12 @@
       "skillPath": ".claude/skills/materialreacttable-mastery/SKILL.md",
       "computedHash": "14321652282333f689810ee754c34825e20191017112d6fcf1b1e772de194687"
     },
+    "mcp-apps-builder": {
+      "source": "mcp-use/mcp-use",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-apps-builder/SKILL.md",
+      "computedHash": "71f46ec803da473a1dd80993628810392178191c77c3581ed9a55f10a67502b2"
+    },
     "mcp-builder": {
       "source": "ComposioHQ/awesome-claude-skills",
       "sourceType": "github",
@@ -1033,6 +1045,12 @@
       "sourceType": "github",
       "skillPath": "skills/onboarding/SKILL.md",
       "computedHash": "ba2fe5408a824eec4a42497f4d43c5ffcc90e3ab6fd6bdc87e6532367de44433"
+    },
+    "openapi-to-mcp": {
+      "source": "mcp-use/mcp-use",
+      "sourceType": "github",
+      "skillPath": "skills/openapi-to-mcp/SKILL.md",
+      "computedHash": "5a5bdc782f2e86d4c48d5cbb4d63351bf8fcd4c7928f64ba3616e4d3b6d50292"
     },
     "owasp-security": {
       "source": "georgekhananaev/claude-skills-vault",
